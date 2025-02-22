@@ -25,12 +25,14 @@ Timetabled is a React application that helps users manage their schedules by dis
 ### Installation
 
 1. Clone the repository:
+
     ```sh
     git clone https://github.com/your-username/timetabled.git
     cd timetabled
     ```
 
 2. Install dependencies:
+
     ```sh
     npm install
     ```
@@ -38,9 +40,14 @@ Timetabled is a React application that helps users manage their schedules by dis
 ### Running the Application
 
 To start the development server with hot module replacement (HMR):
+
 ```sh
 npm run dev
+```
 
+### Project Structure
+
+```sh
 timetabled/
 ├── public/                 # Static assets
 ├── src/                    # Source files
@@ -53,8 +60,10 @@ timetabled/
 ├── .eslintrc.js            # ESLint configuration
 ├── vite.config.js          # Vite configuration
 └── package.json            # Project metadata and dependencies
+```
 
-Contributing
+### Contributing
+
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
 License
