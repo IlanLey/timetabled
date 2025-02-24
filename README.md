@@ -61,18 +61,3 @@ timetabled/
 ├── vite.config.js          # Vite configuration
 └── package.json            # Project metadata and dependencies
 ```
-
-### Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any changes.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgements
-React
-Vite
-ESLint
-.
-
-Feel free to customize this README.md further based on your specific project details and requirements.
